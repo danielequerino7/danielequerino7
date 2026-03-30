@@ -1,16 +1,68 @@
-## Hi there 👋
+🚀 Desenvolvedora focada em back-end com experiência em **C#/.NET** e conhecimento em **Java/Spring Boot**, além de habilidades em desenvolvimento front-end com **JavaScript, Angular e React**.
 
-<!--
-**danielequerino7/danielequerino7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Tenho interesse em construir soluções robustas, bem estruturadas e alinhadas às boas práticas de desenvolvimento, sempre buscando evolução contínua.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+Sou desenvolvedora com experiência prática em desenvolvimento de APIs e sistemas web. Tenho facilidade em aprender novas tecnologias e gosto de trabalhar com soluções que envolvem lógica, organização e boas práticas.
+
+🎯 Atualmente busco oportunidades para atuar como **Desenvolvedora Júnior** ou **Estagiária**, principalmente com foco em:
+
+* Back-end com .NET ou Spring Boot
+* Desenvolvimento de APIs REST
+* Integração com banco de dados
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Back-end
+
+* C# / .NET
+* Java
+* Spring Boot
+
+### 🌐 Front-end
+
+* JavaScript
+* Angular
+* React
+* HTML5 / CSS3
+
+### 🗄️ Banco de Dados
+
+* SQL Server
+* PostgreSQL
+* Oracle
+
+### ⚙️ Ferramentas
+
+* Git / GitHub
+* Docker
+
+---
+
+## 📈 Em aprendizado
+
+Atualmente estou estudando:
+
+* Arquitetura de software (Clean Architecture)
+* Testes automatizados (JUnit, Cypress, Mokito)
+* APIs REST avançadas
+* Boas práticas com Docker
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: https://linkedin.com/in/danielequerino
+
+🐙 GitHub: https://github.com/danielequerino7
+
+---
+
+## ✨ Objetivo
+
+Busco uma oportunidade para crescer profissionalmente como desenvolvedora, contribuindo com soluções eficientes e aprendendo continuamente com a equipe.
