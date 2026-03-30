@@ -49,7 +49,7 @@ Sou desenvolvedora com experiência prática em desenvolvimento de APIs e sistem
 Atualmente estou estudando:
 
 * Arquitetura de software (Clean Architecture)
-* Testes automatizados (JUnit, Cypress, Mokito)
+* Testes automatizados (Jest, Selenium, Cypress, Mockito)
 * APIs REST avançadas
 * Boas práticas com Docker
 
